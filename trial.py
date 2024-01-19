@@ -1,1 +1,1 @@
-print('adadakda')
+print('azazaza')
